@@ -7,6 +7,7 @@ function App() {
       Test
     </div>
     <div>Test 2</div>
+    <button className="btn btn-primary">Bootstrap Button</button>
     </>
   );
 }
