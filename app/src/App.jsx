@@ -1,4 +1,6 @@
 import './App.css';
+import Home from './Home';
+import Test from './Test';
 
 function App() {
 
@@ -15,6 +17,8 @@ function App() {
     <div className='text-center'>
     <button onClick={handleClick} className="btn btn-primary">Bootstrap Button</button>
     </div>
+    <Home/>
+    <Test/>
     </>
   );
 }
